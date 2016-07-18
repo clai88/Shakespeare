@@ -1,0 +1,46 @@
+body {
+  background-color: #E2AC7E
+}
+
+h1{
+  border-bottom: 10px dotted black;
+  font-family: Impact;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+}
+
+main{
+  background-color: #F5F5DC;
+  border: 10px dotted black;
+  width: 60%;
+  margin: 0 20%;
+}
+
+#sonnet{
+  text-align: center;
+  font-style: italic;
+  letter-spacing: 1.5px;
+  margin: 0
+}
+
+.capitalize{
+  font-size: 20px
+}
+#intro{
+  letter-spacing: 2.6px;
+  padding-top: 24px;
+}
+
+p.bottommessage{
+  text-align: center;
+  font-size: 12px;
+}
+
+span.capitalize{
+  font-size: 28px
+}
+span.blue{
+  color: #3C3CEB;
+}
