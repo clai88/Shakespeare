@@ -1,1 +1,1 @@
-![alt text](./Shakespeare.png "My beautiful html image")
+![alt tag](http://github.com/clai88/Shakespeare/blob/master/Shakespeare.png)
