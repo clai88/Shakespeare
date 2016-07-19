@@ -30,7 +30,7 @@ main{
 }
 #intro{
   letter-spacing: 2.6px;
-  padding-top: 24px;
+padding: 24px 24px 0 24px
 }
 
 footer{
