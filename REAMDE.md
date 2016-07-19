@@ -1,1 +1,1 @@
-![alt text](~/Desktop/Shakespeare.png "My beautiful html image")
+![alt text](/Users/chris/Desktop/Shakespeare.png "My beautiful html image")
